@@ -1,0 +1,23 @@
+09:49 INSTALACIÓN
+15:39 Git Bash
+15:48 "pwd" [saber ubicación actual]
+15:59 "cd ..." [dirigirme a una carpeta] [también puede realizarse "cd "ubicaciónCarpeta"", "ubicación carpeta" también se pega con un Shift+Insert"]
+16:14 "ls" [listar elementos de una carpeta]
+16:24  "git init" [iniciar repositorio en Git]
+17:13 "git status" [estado actual de archivos del repositorio]
+18:17 "git add ..." [agregar archivo a Stage]
+19:57 "git commit -m "... "" [agregar archivo a Commit]
+20:24 Configuración global
+21:55 Editor de código Bin, dentro del Git Bash
+23:00 "git log" [historial de los Commit]
+24:52 "git checkout -- ..." [descartar cambios en el archivo]
+25:47 "git diff ..." [muestra cambios en el archivo]
+29:30 ".gitignore" [ignorar archivos para el repositorio -no se suben-]
+31:38 "git commit -m ... " [agregar archivo a Commit, sin entrar al Bin]
+33:11 "git branch" [saber el nombre de rama actual
+33:26 "git branch ..." [cear rama]
+33:57 "git checkout ..." [cambiar de rama]
+35:13 "git add ." [agregar todos los archivos]
+48:15 Descarga/Clonación de repositorio
+48:34 Ingresar ubicación de la carpeta  de alojamiento de la clonación [también puede realizarse "cd "ubicaciónCarpeta"", "ubicación carpeta también se pega con un Shift+Insert"]
+48:38 "git clone ..." [clonar repositorio en la carpeta]
